@@ -1,0 +1,26 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "vector": "cpp",
+        "set": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "map": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "ios": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "deque": "cpp",
+        "limits": "cpp",
+        "algorithm": "cpp",
+        "queue": "cpp"
+    }
+}
